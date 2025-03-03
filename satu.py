@@ -1,1 +1,1 @@
-
+print("tiur lg ngawangg")
