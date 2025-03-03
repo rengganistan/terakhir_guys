@@ -1,1 +1,1 @@
-print("aku cantik kali")
+print("sekali kali jelek")
